@@ -29,7 +29,6 @@ window.onload = () => {
         right.classList.remove("open");
         left.classList.remove("closed");
 
-        messageList.style.maxHeight=10/window.innerHeight*10+"px"
     }
 };
 
